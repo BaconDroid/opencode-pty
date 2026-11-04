@@ -82,8 +82,7 @@
     "lint": "biome lint .",
     "lint:fix": "biome lint --write .",
     "format": "biome format .",
-    "format:fix": "biome format --write .",
-    "prepare": "npm run build:plugin"
+    "format:fix": "biome format --write ."
   },
   "devDependencies": {
     "@biomejs/biome": "2.3.13",
